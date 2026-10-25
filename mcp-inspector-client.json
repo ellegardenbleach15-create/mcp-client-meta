@@ -1,0 +1,11 @@
+{
+  "client_id": "https://ellegardenbleach15-create.github.io/mcp-client-meta/mcp-inspector-client.json",
+  "client_name": "MCP token test (local inspector)",
+  "redirect_uris": [
+    "http://127.0.0.1:6274/oauth/callback",
+    "http://localhost:6274/oauth/callback"
+  ],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
